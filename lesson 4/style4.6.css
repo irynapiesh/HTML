@@ -1,0 +1,49 @@
+div{
+  display: flex;
+  flex-direction: column;
+
+
+}
+.picture{
+  width: 15vw;
+  height: 20vh;
+}
+.listUl{
+  height: 18vh;
+  width: 15vw;
+}
+.top{
+  display: flex;
+  flex-direction: row;
+  width: 40vw;
+
+
+
+}
+.bottom{
+  width: 40vw;
+
+}
+ ol{
+  width: 40vw;
+  height: 70vh;
+  background-color: #ead9d9;
+
+
+}
+ main{
+   width: 44vw;
+   border: 3px solid black;
+   margin-left: 400px;
+ }
+ h4{
+   text-align: center;
+ }
+ img{
+   margin-left: 10px;
+ }
+ ol{
+   margin-left: 10px;
+
+ }
+

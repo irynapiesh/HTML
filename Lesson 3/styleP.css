@@ -1,0 +1,62 @@
+  body{
+    margin: 0;
+    font-family: 'Jost', sans-serif;
+  }
+  header{
+    height: 20vh;
+    background-color: rgba(83, 81, 81, 0.10);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+  header a{
+    margin-right: 93px;
+    color: #7A7070;
+    font-family: Jost;
+    font-size: 35px;
+    text-decoration: none;
+  }
+  .active_link{
+      color: #3D6FB4;
+  }
+  main{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+  }
+  .content{
+    width: 40%;
+  }
+  .content h1{
+    font-size: 70px;
+  }
+  .content p{
+    font-size: 35px;
+  }
+  .WhiteButton{
+    width: 150px;
+    height: 55px;
+    border-radius: 30px;
+    border: 1px solid #000;
+    background-color: white;
+
+  }
+  .BlueButton{
+    width: 130px;
+    height: 55px;
+    border-radius: 30px;
+    border: 1px solid #000;
+    background: rgba(61, 111, 180, 0.29);
+    margin-left: 36px;
+  }
+  /*_________________________________________________About____________________________________________________*/
+article h1{
+  font-size: 70px;
+  margin-bottom: 46;
+}
+article p{
+  font-size: 35px;
+}
+article{
+  padding: 0 106px 0 148px;
+}

@@ -1,0 +1,74 @@
+  body{
+    margin: 0;
+    font-family: 'Jost', sans-serif;
+  }
+  /*_____________________________________probneHome___________________________________________________*/
+  header{
+      height: 20vh;
+      width: 100vw;
+      background-color: rgba(83, 81, 81, 0.10);
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+}
+ header a{
+   margin-right: 93px;
+   color: #7A7070;
+   font-size: 35px;
+   text-decoration: none;
+ }
+ .active_link{
+   color: #3D6FB4;
+   text-decoration: none;
+ }
+ /*_______________________________________________main______________________________________________*/
+  main{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+
+  }
+  h1{
+    color: #000;
+    font-size: 70px;
+    margin-left: 148px;
+  }
+  p{
+    color: #000;
+    font-size: 35px;
+    margin-left: 138px;
+  }
+  .whiteButton{
+    width: 150px;
+    height: 55px;
+    border-radius: 30px;
+    border: 1px solid #000;
+    background-color: white;
+    margin: 38px 36px 154px 138px;
+  }
+  .blueButton{
+    width: 130px;
+    height: 55px;
+    border-radius: 30px;
+    border: 1px solid #000;
+    background: rgba(61, 111, 180, 0.29);
+
+  }
+
+  }
+  .Button {
+    margin: 54px 478px 167px 148px;
+
+  }
+  /*____________________________probneAbout____________________________________________________*/
+ article h1{
+   font-size: 70px;
+   margin-bottom: 46px;
+ }
+ article p{
+   font-size: 35px;
+
+ }
+ article{
+   padding: 0 106px 0 148px;
+ }
